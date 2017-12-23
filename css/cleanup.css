@@ -9,6 +9,6 @@ body #wall #tag-2 {
   display: none;
 }
 
-#wall #tag-4 .parent{
+#wall .parent #tag-4 {
   display: none;
 }
